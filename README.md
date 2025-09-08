@@ -44,9 +44,15 @@ It detects network attacks, scans, and suspicious connections, automatically blo
 
 ```bash
 git clone https://github.com/yourusername/DogPro.gi
+
 cd DogPro
+
 sudo apt update
+
 pip install scapy
+
 sudo apt install libnotify-bin
+
 chmod +x dogpro.py
+
 sudo python3 dogpro.py
