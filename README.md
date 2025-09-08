@@ -25,7 +25,7 @@ It detects network attacks, scans, and suspicious connections, automatically blo
   - `c` → ctrl+c to stop the scan 
 
 ---
-HOW TO INSTALL 
+**HOW TO INSTALL**
 -`git clone https://github.com/yourusername/DogPro.git`
 -`cd DogPro`
 -`sudo apt update`
