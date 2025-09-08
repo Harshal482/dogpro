@@ -24,7 +24,7 @@ It detects network attacks, scans, and suspicious connections, automatically blo
   - `h` → Show attack history 
   - `c` → ctrl+c to stop the scan 
 
----
+
 **HOW TO INSTALL**
 -`git clone https://github.com/yourusername/DogPro.git`
 -`cd DogPro`
@@ -34,7 +34,7 @@ It detects network attacks, scans, and suspicious connections, automatically blo
 -`chmod +x dogpro.py`
 -`sudo python3 dogpro.py`
 
-
+---
 
 ## 🖥️ Requirements
 
